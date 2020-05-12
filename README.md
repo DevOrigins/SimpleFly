@@ -10,3 +10,5 @@ Version: 1.0.0
 Pmmp api version: 3.0.0
 
 Mcpe Support Version: 1.4.0-1.14.60
+
+PLUGIN DOWNLOAD-> http://www.mediafire.com/file/0k7kdpv2595s6su/SimpleFly_v1.0.0.phar/file
