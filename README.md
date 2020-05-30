@@ -7,10 +7,14 @@ Plugin Info
 
 Name: Simple Fly
 
-Version: 1.0.0
+Version: 1.0.1
 
 Pmmp api version: 3.0.0
 
 Mcpe Support Version: 1.4.0-1.14.60
 
-PLUGIN DOWNLOAD-> http://www.mediafire.com/file/0k7kdpv2595s6su/SimpleFly_v1.0.0.phar/file
+PLUGIN DOWNLOAD-> https://www.mediafire.com/file/vv1yb82ok0woze5/SimpleFly_v1.0.1.phar/file
+
+Update v1.0.1
+
+Fix bugs.
